@@ -1,0 +1,48 @@
+.body {
+	font-family: sans-serif;
+	box-sizing: border-box;
+}
+
+.Variable {
+	background-color: #6A9BF7;
+	width: 120%;
+}
+
+
+.image {
+	height: 50%;
+	width: 50%;
+	position: relative;
+	left: 40%;
+	top: -250px;
+}
+
+.start {
+	position: relative;
+	top: -500px;
+	right: -100px;
+	font-size: 25px;
+	font-weight: bold;
+	background-color: black;
+	color: white;
+	padding: 15px;
+	border-radius: 10px;
+
+}
+
+h4 {
+	position: relative;
+	top: 360px;
+	right: -100px;
+	font-size: 35px;
+	width: 700px;
+}
+
+h1 {
+	position: relative;
+	top: 380px;
+	right: -95px;
+	font-size: 100px;
+}
+
+
